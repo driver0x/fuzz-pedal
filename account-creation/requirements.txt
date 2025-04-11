@@ -1,0 +1,15 @@
+beautifulsoup4==4.13.3
+certifi==2025.1.31
+charset-normalizer==3.4.1
+greenlet==3.1.1
+idna==3.10
+patchright==1.51.0
+py==1.11.0
+pyee==12.1.1
+pymailtm==1.1.1
+pyperclip==1.9.0
+random-username==1.0.2
+requests==2.32.3
+soupsieve==2.6
+typing_extensions==4.13.0
+urllib3==2.3.0
