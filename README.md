@@ -14,3 +14,6 @@ Captcha solving using [AntiCaptcha](https://anti-captcha.com/) (requires API key
 Automate generated accounts to follow profiles, like posts, and other tasks.
 
 Solves mandatory 2FA verification as of Apr 9 2025.
+
+## Track downloader
+Downloads any song on BandLab (M4A) by reading network requests.
